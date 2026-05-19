@@ -1,3 +1,5 @@
+package SamuelFuentes;
+
 public class PlanoCoordenadas {
 
     public static void g1_planoCoordenadas() {

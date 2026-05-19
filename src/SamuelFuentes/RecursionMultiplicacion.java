@@ -1,3 +1,5 @@
+package SamuelFuentes;
+
 import java.util.Scanner;
 
 public class RecursionMultiplicacion {
