@@ -26,7 +26,7 @@ public class SerieCaracteres {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Grupo 1");
+        System.out.println("Grupo 3");
         System.out.println("Integrante: Fuentes.Samuel");
 
         System.out.print("Ingrese cantidad de términos: ");

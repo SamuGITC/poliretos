@@ -39,7 +39,7 @@ public class Loading {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Grupo 1");
+        System.out.println("Grupo 3");
         System.out.println("Integrante: Fuentes.Samuel");
 
         g1_loading(sc);
