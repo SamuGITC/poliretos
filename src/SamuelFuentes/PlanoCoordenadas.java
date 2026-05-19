@@ -37,7 +37,7 @@ public class PlanoCoordenadas {
     public static void main(String[] args) {
 
         System.out.println("Grupo 1");
-        System.out.println("Integrante: Fuentes.Samuel");
+        System.out.println("Integrante: Fuentes.Samuel, Rodrigo.Montero");
 
         g1_planoCoordenadas();
     }

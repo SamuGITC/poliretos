@@ -21,7 +21,7 @@ public class Figura {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Grupo 3");
-        System.out.println("Integrante: Fuentes.Samuel");
+        System.out.println("Integrante: Fuentes.Samuel, Rodrigo.Montero");
 
         System.out.print("Ingrese niveles: ");
         int n = sc.nextInt();
