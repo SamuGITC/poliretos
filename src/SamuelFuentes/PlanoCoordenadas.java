@@ -14,7 +14,7 @@ public class PlanoCoordenadas {
 
         int maxY = y[y.length - 1];
 
-        for (int fila = maxY; fila >= 0; fila--) {
+        for (int fila = maxY; fila > 0; fila--) {
 
             System.out.printf("%2d | ", fila);
 
