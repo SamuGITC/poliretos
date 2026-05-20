@@ -1,4 +1,4 @@
-package MeganRetos;
+package meganretos;
 
 import java.util.Scanner;
 

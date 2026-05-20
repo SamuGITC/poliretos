@@ -1,4 +1,4 @@
-package MeganRetos;
+package meganretos;
 
 public class Figura09 {
     public static void main(String[] args) {
